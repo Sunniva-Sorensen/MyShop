@@ -1,11 +1,11 @@
-using System;
-namespace MyShop.Models
+using System; 
+namespace MyShop.Models 
 {
     public class Item
     {
         public int ItemId { get; set; }
-        // initialiering til tom streng for å unngå null
-        public string Name { get; set; } = string.Empty;
+        // "= string.Empty;" på slutten initialiering til tom streng for å unngå null
+        public string Name { get; set; }
         public decimal Price { get; set; }
         // spørsmålstegn gjør at den kan være null
         public string? Description { get; set; }
