@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sunns\\OneDrive\\Dokumenter vgs\\OsloMET\\Webapplikasjoner\\MyShop\\MyShop\\MyShop.csproj",
+      "projectUniqueName": "C:\\Users\\sunns\\OneDrive\\Dokumenter vgs\\GitHub\\MyShop\\MyShop\\MyShop.csproj",
       "projectName": "MyShop",
-      "projectPath": "C:\\Users\\sunns\\OneDrive\\Dokumenter vgs\\OsloMET\\Webapplikasjoner\\MyShop\\MyShop\\MyShop.csproj",
+      "projectPath": "C:\\Users\\sunns\\OneDrive\\Dokumenter vgs\\GitHub\\MyShop\\MyShop\\MyShop.csproj",
       "packagesPath": "C:\\Users\\sunns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sunns\\OneDrive\\Dokumenter vgs\\OsloMET\\Webapplikasjoner\\MyShop\\MyShop\\obj\\",
+      "outputPath": "C:\\Users\\sunns\\OneDrive\\Dokumenter vgs\\GitHub\\MyShop\\MyShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sunns\\AppData\\Roaming\\NuGet\\NuGet.Config"
